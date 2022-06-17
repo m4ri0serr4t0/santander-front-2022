@@ -1,33 +1,6 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@m4ri0serr4t0 
-andres2093
-/
-santander-front-2022
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-santander-front-2022/styles.css
-@andres2093
-andres2093 S2 -> Fonts
-Latest commit acbcde5 2 days ago
- History
- 1 contributor
-85 lines (71 sloc)  1.02 KB
 
 body {
-  background-color: #fffbf7;
+  background-color: #87CEFA;
 }
 
 h1 {
@@ -111,16 +84,3 @@ li {
   margin-top: 140px;
   text-align: center;
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
